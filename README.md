@@ -177,8 +177,8 @@ Simple `useState` for active slide index (0-2), with circular navigation:
 
 ## 🌐 Live Demo
 
-- **Hosted URL**: [Add your Vercel/Netlify URL here]
-- **GitHub Repository**: [Add your GitHub repo URL here]
+- **Hosted URL**: https://focusboard-lovat.vercel.app
+- **GitHub Repository**: https://github.com/deviuppuluri/focusboard.git
 
 ## 📱 Responsive Breakpoints
 
